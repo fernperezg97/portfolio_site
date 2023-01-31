@@ -1,0 +1,13 @@
+div.navbar-header img {
+    width: 30px;
+    float: center;
+    margin-top: 7px;
+    margin-right: 7px;
+  }
+  div.navbar-custom {
+    background-color: #faedcd;
+  }
+
+  body {
+    background-color: #faedcd;
+  }
